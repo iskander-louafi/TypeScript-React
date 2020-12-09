@@ -1,1 +1,0 @@
-"The app talks to the [OpenWeather API](https://openweathermap.org/api) to retrieve the current weather for a user-provided city, then displays some basic weather information retrieved from the API." (from the task description made by my teacher Ziad Abou_Saab)
