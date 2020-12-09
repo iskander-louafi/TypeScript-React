@@ -1,0 +1,36 @@
+
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin:0;
+}
+body, html {
+  height: 100%;
+
+}
+body {
+  /* The image used */
+  background-image: url("./pexels-brett-sayles-1431822.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.8;
+}
+
+/* Class */
+.App {
+  margin: 10% auto 2%;
+  width: 50%;
+}
+.op {
+  opacity: 0.9;
+  background-color: rgb(242, 242, 245);
+}
+.box-width {
+  width: 50%;
+}
